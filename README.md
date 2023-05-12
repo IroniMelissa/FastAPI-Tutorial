@@ -19,6 +19,11 @@ FastAPI is a modern, high-performance web framework for building APIs with Pytho
 #### Overall, FastAPI offers a modern and efficient approach to building APIs in Python, combining high performance, automatic data validation, and documentation generation. It has gained popularity among developers due to its ease of use, speed, and powerful features.
 
 
+### To run the main.py
+- python main.py
+### To install the necessary libraries and server
+-  python -m pip install fastapi
+-  python -m pip install "uvicorn[standard]"
 
 
 
