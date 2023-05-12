@@ -21,9 +21,13 @@ FastAPI is a modern, high-performance web framework for building APIs with Pytho
 
 ### To run the main.py
 - python main.py
+- After run the program you will see localhost address on the terminal.Follow tha link and it will get you into your browser.
+- If you write '/docs' after you localhost address you will be navigating to web interface (Open API/Swagger) which you can interact with through a web interface also automatically created by FastAPI.
 ### To install the necessary libraries and server
 -  python -m pip install fastapi
 -  python -m pip install "uvicorn[standard]"
+
+
 
 
 
